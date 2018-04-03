@@ -1,0 +1,6 @@
+{
+        "msgVpnName":"restgw",
+        "restDeliveryPointName":"rdp1",
+        "queueBindingName":"rdp1q1",
+        "postRequestTarget":"IGNORED"
+}

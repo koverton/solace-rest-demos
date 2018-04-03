@@ -1,0 +1,10 @@
+{
+            "msgVpnName":"default",
+            "restConsumerName":"rdp1con1",
+            "restDeliveryPointName":"rdp1",
+            "enabled":true,
+            "maxPostWaitTime":3,
+            "remoteHost":"192.168.56.200",
+            "remotePort":54321,
+	    "tlsEnabled":false
+}

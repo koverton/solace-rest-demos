@@ -1,0 +1,8 @@
+{
+	"msgVpnName":"restgw",
+	"permission":"delete",
+	"queueName":"rdp1q1",
+	"accessType":"exclusive",
+	"egressEnabled":true,
+	"ingressEnabled":true
+}

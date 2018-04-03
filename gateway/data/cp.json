@@ -1,0 +1,8 @@
+{
+	"clientProfileName":"default",
+	"msgVpnName":"restgw",
+        "allowGuaranteedEndpointCreateEnabled":true,
+        "allowGuaranteedMsgReceiveEnabled":true,
+        "allowGuaranteedMsgSendEnabled":true,
+        "allowTransactedSessionsEnabled":true
+}

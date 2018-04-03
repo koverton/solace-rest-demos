@@ -1,0 +1,5 @@
+{
+	"msgVpnName":"default",
+	"queueName":"rdp1q1",
+	"subscriptionTopic":"rest/pubsub"
+}

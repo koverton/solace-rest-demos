@@ -1,0 +1,9 @@
+{
+        "msgVpnName":"restgw",
+        "maxMsgSpoolUsage":1000,
+        "authenticationBasicType":"none",
+	"serviceRestMode":"gateway",
+	"serviceRestIncomingPlainTextEnabled":true,
+        "serviceRestIncomingPlainTextListenPort":9001,
+        "enabled":true
+}
