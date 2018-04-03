@@ -9,7 +9,7 @@ The package expects to run under a linux distribution with a node.js installatio
 ## Demo Steps
 
 1. Modify the `config.sh` and `data/rdp1_con1.json` files to match servers
-used for your demo (see [Required Modifications](#Required-Modifications) below)
+used for your demo (see [Required Modifications](#required-modifications) below)
 
 2. Setup the new msg-VPN on Solace VMR with REST configurations
 
