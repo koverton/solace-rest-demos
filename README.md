@@ -13,6 +13,6 @@ The behavior is distinct, supporting 'messaging' and 'gateway' modes. Documentat
 
 ## Demos
 
-[REST messaging demo](messaging/)
-
 [REST gateway demo](gateway/)
+
+[REST messaging demo](messaging/)

@@ -1,5 +1,7 @@
 # Solace REST MicroGateway Sample
 
+[REST MicroGateway concepts](https://docs.solace.com/Features/REST-Gateway-Concepts/REST-Gateway-Concepts.htm)
+
 Sample scripts for demoing Solace REST MicroGateway for microservices applications.
 
 The package expects to run under a linux distribution with a node.js installation.
@@ -7,7 +9,7 @@ The package expects to run under a linux distribution with a node.js installatio
 ## Demo Steps
 
 1. Modify the `config.sh` and `data/rdp1_con1.json` files to match servers
-used for your demo (see [Required Modifications][Required Modifications] below)
+used for your demo (see [Required Modifications](#Required-Modifications) below)
 
 2. Setup the new msg-VPN on Solace VMR with REST configurations
 
